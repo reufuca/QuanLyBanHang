@@ -1,0 +1,10 @@
+E:\Stdyng\y2\part2\CSLT2\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+E:\Stdyng\y2\part2\CSLT2\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+E:\Stdyng\y2\part2\CSLT2\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+E:\Stdyng\y2\part2\CSLT2\QuanLyBanHang\obj\Debug\QuanLyBanHang.csprojAssemblyReference.cache
+E:\Stdyng\y2\part2\CSLT2\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+E:\Stdyng\y2\part2\CSLT2\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+E:\Stdyng\y2\part2\CSLT2\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+E:\Stdyng\y2\part2\CSLT2\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+E:\Stdyng\y2\part2\CSLT2\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+E:\Stdyng\y2\part2\CSLT2\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmChatlieu.resources
